@@ -1,4 +1,4 @@
-I did not work with any other students on this assignment. I primarily used class resources and examples. 
+I did not work with any other students on this assignment. I referenced class resources and activity solution examples to help construct my code. 
 
 In order to figure out how to convert a previously converted string with a dollar sign back to a float (in box 79 of the code ), I used the following website: https://stackoverflow.com/questions/32464280/converting-currency-with-to-numbers-in-python-pandas
 

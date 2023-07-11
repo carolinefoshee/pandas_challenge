@@ -1,4 +1,8 @@
-The code I provided reorganizes school data and student testing data to provide many insights about the district. The district_summary data frame shows that the district has 15 schools, over 30,000 students, and only 65% of students are passing both math and reading tests. The per_school_summary frame lists school type, number of students, budget data, and test score data for each school. This data is broken down into more digestible dataframes, including ones showing the top and bottom 5 schools. I also created dataframes depicting test score data by  budget, total number of students, and school type, which revealed that smaller, lower-funded, charter schools have the best test scores. 
+The code I provided reorganizes school data and student testing data to provide many insights about the district. 
+The district_summary data frame shows that the district has 15 schools, over 30,000 students, and only 65% of students are passing both math and reading tests. 
+The per_school_summary frame lists school type, number of students, budget data, and test score data for each school. 
+This data is broken down into more digestible dataframes, including ones showing the top and bottom 5 schools. 
+I also created dataframes depicting test score data by  budget, total number of students, and school type, which revealed that smaller, lower-funded, charter schools have the best test scores. 
 
 Interesting observations from the data:
 1) The top 5 schools are all charter schools, while the bottom 5 are all district schools. As displayed in the type_summary dataframe, charter schools have much higher test scores overall. This is probably because charter schools are independently run, so the curriculum, organization, or culture of the school could be more effective at improving student outcomes. 
